@@ -1,6 +1,6 @@
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/orHCUgipSWk/maxresdefault.jpg)](https://www.youtube.com/watch?v=orHCUgipSWk)
+[![Watch the demo](https://drive.google.com/file/d/1KdtBapdbwlAAKttdzKygiDGpnpxZtyxo/view?usp=sharing)](https://www.youtube.com/watch?v=orHCUgipSWk)
 
 
 This project was developed by a dedicated team of students as part of a hackathon initiative to solve real-world problems using full-stack web development and AI integration.
