@@ -1,3 +1,4 @@
+[![Watch the demo](https://img.youtube.com/vi/orHCUgipSWk/0.jpg)](https://www.youtube.com/watch?v=orHCUgipSWk)
 
 
 This project was developed by a dedicated team of students as part of a hackathon initiative to solve real-world problems using full-stack web development and AI integration.
