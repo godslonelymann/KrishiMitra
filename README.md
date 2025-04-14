@@ -11,7 +11,7 @@ This project was developed by a dedicated team of students as part of a hackatho
 
 ## 🚀 Project Overview
 
-This project leverages modern web technologies and artificial intelligence to deliver a responsive and intelligent platform for users. The aim is to provide a seamless, interactive experience backed by a robust backend, and smart features using AI APIs.
+KrishiMitra is an AI-powered, full-stack web application developed to assist farmers with intelligent crop monitoring, real-time environmental insights, and a user-friendly marketplace. Built during a hackathon, it combines modern web technologies with AI integration to address real-world agricultural challenges.
 
 ### ✨ Features
 
