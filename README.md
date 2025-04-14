@@ -1,6 +1,6 @@
 ## 🎥 Demo Video
 
-[![Watch the demo](https://drive.google.com/file/d/1KdtBapdbwlAAKttdzKygiDGpnpxZtyxo/view?usp=sharing)](https://www.youtube.com/watch?v=orHCUgipSWk)
+[![KrishiMitra Demo Video](https://drive.google.com/uc?export=view&id=1KdtBapdbwlAAKttdzKygiDGpnpxZtyxo)](https://www.youtube.com/watch?v=orHCUgipSWk)
 
 
 This project was developed by a dedicated team of students as part of a hackathon initiative to solve real-world problems using full-stack web development and AI integration.
