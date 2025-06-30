@@ -43,8 +43,8 @@ KrishiMitra is an AI-powered, full-stack web application developed to assist far
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/godslonelymann/23_Team_Hackers.git
-cd 23_Team_Hackers
+git clone https://github.com/godslonelymann/KrishiMitra.git
+cd KrishiMitra
 ```
 
 2. Install backend dependencies:
